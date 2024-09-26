@@ -7,3 +7,4 @@ There has been a decline in the number of credit card users of a bank. A high po
 In this project, we are going to:<br>
 - Explore the data and find the main variables contributing to the customer churn in this bank.
 - Build a machine learning model that can predict if a customer is likely to leave.
+- Tree baed models and Deep Learning will be used
